@@ -8,7 +8,7 @@ Database Fields
 
 All the blockchain is stored on these tables :
 
-<a href="../../media/Burst_Blockchain_Diagram.png"><img src="../../media/Burst_Blockchain_Diagram.png" title="Burst_Blockchain_Diagram.png" alt="Burst_Blockchain_Diagram.png" /></a>
+<a href="../media/Burst_Blockchain_Diagram.png"><img src="../media/Burst_Blockchain_Diagram.png"/></a>
 
 ### 1. Block Table
 
