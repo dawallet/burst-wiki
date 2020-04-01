@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-This guide is for installing the latest BRS Core wallet from [https://www.burst-coin.org/download-wallet](https://www.burst-coin.org/download-wallet) on Windows PCs. If you would like a simpler wallet installation... please download [QBundle](Qbundle.md).
+This guide is for installing the latest BRS Core wallet from [https://www.burst-coin.org/download-wallet](https://www.burst-coin.org/download-wallet) on Windows PCs. For a simpler installation it is recommended to use [QBundle](Qbundle.md).
 
 Installation of BRS only (with MariaDB)
 ---------------------------------------
