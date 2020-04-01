@@ -9,7 +9,7 @@ The Burst mining reward is reduced after every 10800 blocks which is approximate
 Graph of Block Reward
 ---------------------
 
-![Plot of the BURST block reward over time](../../media/BlockRewardWithoutFees.png "Plot of the BURST block reward over time")
+![Plot of the BURST block reward over time](../media/BlockRewardWithoutFees.png "Plot of the BURST block reward over time")
 
 Table of Block Rewards
 ----------------------
