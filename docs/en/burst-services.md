@@ -1,7 +1,7 @@
 Introduction
-------------
+==============
 
-In addition to a plethora of [Burst Software](burst-software.md), the Burst ecosystem also offers a lot of services to use without - or very little - software installation of yours.
+In addition to [Burst Software](burst-software.md), the Burst ecosystem offers many services without or very little software installation.
 
 Online Wallets
 ==============
